@@ -1,1 +1,1 @@
-# Independent-Component-Analysis
+# Independent Component Analysis
